@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "134774805309",
+    "firebase_url": "https://flutter-test-b73a7-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "flutter-test-b73a7",
+    "storage_bucket": "flutter-test-b73a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134774805309:android:b23a8b339fe5f9a260eb54",
+        "android_client_info": {
+          "package_name": "com.example.flutter_machine_learnig"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134774805309-64mhhie3hr81pltduaji284fclp265s8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7QzsPqGYUmPfBlxtyDE2iwAFBs681Z9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134774805309-64mhhie3hr81pltduaji284fclp265s8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134774805309:android:7dcdb8d66a28f5ac60eb54",
+        "android_client_info": {
+          "package_name": "com.example.zupay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134774805309-64mhhie3hr81pltduaji284fclp265s8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7QzsPqGYUmPfBlxtyDE2iwAFBs681Z9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134774805309-64mhhie3hr81pltduaji284fclp265s8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
